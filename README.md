@@ -1,2 +1,2 @@
 # Crypro-tasks
-This is my repo for crypro tasks 
+This is repo for crypro tasks 
